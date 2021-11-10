@@ -1,0 +1,110 @@
+body{background-image:url("https://st3.depositphotos.com/1020618/14748/i/1600/depositphotos_147486215-stock-photo-cinema-concept-of-vintage-film.jpg");
+    margin: 0;
+    font-family: 'Bitter', serif;
+   
+    color: #DBD4D3;
+    font-size: 20px;
+	
+background-size:100% 130%;
+background-repeat:no-repeat;
+background-attachment:fixed;
+margin:0;
+
+ 
+   
+}
+
+#search{
+    width: 500px;
+    height: 50px;
+}
+
+
+header{
+    width: 100%;
+    background: #886F68;
+    text-align: center;
+}
+.header {
+    font-family: 'Bitter', serif;
+    font-size: 50px;
+    margin-top: -20px;
+    height: 66px;
+}
+#btn-menu {
+    display: none;
+}
+
+header label{
+    display: none;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    border-right: 1px solid #ffffff
+}
+
+header label:hover {
+    cursor: pointer;
+    background: rgba(0,0,0,0.3);
+}
+
+.menu ul{
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.menu li {
+   border-right: 1px solid #ffffff;
+
+}
+
+.menu li:hover{
+    background: rgba(0,0,0,0.3);
+}
+
+.menu li a{
+    display: block;
+    padding: 15px 20px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#search {
+    margin: 0 auto;
+    display: block;
+    align-content: center;
+}
+#bottom{
+    margin: 0 auto;
+    display: block;
+    align-content: center;
+    height: 50px;
+}
+h1{
+    text-align: center;
+}
+
+.xd{
+    align-items: left;
+    font-size: 20px;
+}
+#hola{
+    margin: 0 auto;
+    display: block;
+    align-content: center;
+    height: 50px;
+}
+
+#botonalq{
+    margin: 0 auto;
+    display: block;
+    height: 50px;
+}
+
+#botonalq{
+    margin: 0 auto;
+    display: block;
+    height: 50px;
+}
